@@ -17,9 +17,9 @@
 
 # 메모
 ### 트러블 슈팅
-- [JPA - org.hibernate.LazyInitializationException](https://velog.io/@seluo65/JPA-org.hibernate.LazyInitializationException)
-- [JPA - 엔터티가 삭제되지 않는 오류 1](https://velog.io/@seluo65/JPA-%EC%97%94%ED%84%B0%ED%8B%B0%EA%B0%80-%EC%82%AD%EC%A0%9C%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%98%A4%EB%A5%98)
-- [JPA - 엔터티가 삭제되지 않는 오류 2](https://velog.io/@seluo65/JPA-%EC%97%94%ED%84%B0%ED%8B%B0%EA%B0%80-%EC%82%AD%EC%A0%9C%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%98%A4%EB%A5%98-2)
+- [org.hibernate.LazyInitializationException 에러](https://velog.io/@seluo65/JPA-org.hibernate.LazyInitializationException)
+- [엔터티가 삭제되지 않는 오류 1](https://velog.io/@seluo65/JPA-%EC%97%94%ED%84%B0%ED%8B%B0%EA%B0%80-%EC%82%AD%EC%A0%9C%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%98%A4%EB%A5%98)
+- [엔터티가 삭제되지 않는 오류 2](https://velog.io/@seluo65/JPA-%EC%97%94%ED%84%B0%ED%8B%B0%EA%B0%80-%EC%82%AD%EC%A0%9C%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%98%A4%EB%A5%98-2)
 ### 기타 메모
 [2차 프로젝트 메모](https://velog.io/@seluo65/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%94%EB%AA%A8)
 
