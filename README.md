@@ -20,5 +20,5 @@
 [2차 프로젝트 메모](https://velog.io/@seluo65/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%94%EB%AA%A8)
 
 # 기타 프로젝트 정보
-원본 리포지토리 : https://recruit.douzone.com/post/8000/REM2024059 <br>
+원본 리포지토리 : https://github.com/prgrms-be-devcourse/NBE1_2_Team06 <br>
 프로젝트 정보 : https://www.notion.so/6-8d1e08b357fd460aa1c879ee190214f6
