@@ -1,10 +1,6 @@
 # 응급 비서 서비스
 응급 환자 혹은 보호자가 직접 주변 응급실의 실시간 가용 병상 현황을 확인하여, 최대한 빠르게 치료 받을 수 있도록 도와주는 서비스를 기획하였습니다.
 
-### 프로젝트 정보
-원본 리포지토리 : https://recruit.douzone.com/post/8000/REM2024059 <br>
-프로젝트 정보 : https://www.notion.so/6-8d1e08b357fd460aa1c879ee190214f6
-
 # 나의 역할
 `Post`(게시글) 도메인에 대하여 작업하였습니다.
 
@@ -23,3 +19,6 @@
 ### 기타 메모
 [2차 프로젝트 메모](https://velog.io/@seluo65/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%94%EB%AA%A8)
 
+# 기타 프로젝트 정보
+원본 리포지토리 : https://recruit.douzone.com/post/8000/REM2024059 <br>
+프로젝트 정보 : https://www.notion.so/6-8d1e08b357fd460aa1c879ee190214f6
