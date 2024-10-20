@@ -10,6 +10,7 @@
 - [[#54] [FEATURE] 좋아요 기능 구현](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/58)
 - [[#60] [FEATURE] 게시글 파일 추가 기능 구현](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/61)
 - [[#68] [REFACTOR] 게시글 성능 개선](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/71)
+- [[#72] [TEST] 게시글 테스트 작성](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/91)
 
 # 메모
 ### 트러블 슈팅
