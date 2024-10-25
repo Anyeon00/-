@@ -9,6 +9,7 @@
 - [[#41] [FEATURE] 게시글의 댓글 기능 구현](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/47)
 - [[#54] [FEATURE] 좋아요 기능 구현](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/58)
 - [[#60] [FEATURE] 게시글 파일 추가 기능 구현](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/61)
+- [[#64] [FEATURE] 응급실 상세 정보 조희 기능 구현](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/65)
 - [[#68] [REFACTOR] 게시글 성능 개선](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/71)
 - [[#72] [TEST] 게시글 테스트 작성](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/91)
 - [[#96] [REFACTOR] SonarQube 기반 리팩토링](https://github.com/prgrms-be-devcourse/NBE1_2_Team06/pull/97)
